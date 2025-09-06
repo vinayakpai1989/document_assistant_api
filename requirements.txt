@@ -11,3 +11,7 @@ google-genai
 langchain
 faiss-cpu
 python-dotenv
+langchain-openai
+langchain-google-genai
+chroma-db
+python-dotenv
