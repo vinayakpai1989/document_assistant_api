@@ -13,5 +13,5 @@ faiss-cpu
 python-dotenv
 langchain-openai
 langchain-google-genai
-chroma-db
+chromadb
 python-dotenv
